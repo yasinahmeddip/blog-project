@@ -52,5 +52,16 @@ label {
 
 .Please {
     text-align: left;
-    F padding-left: 20px;
+    padding-left: 20px;
+}
+nav li .dropdown{
+    display: none;
+    position: absolute;
+    background-color: rgb(149, 187, 127);
+    padding-left: 10px;
+}
+
+nav li:hover > .dropdown{
+    display: block;
+
 }

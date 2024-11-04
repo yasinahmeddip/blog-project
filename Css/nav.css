@@ -7,7 +7,7 @@ nav ul {
 nav li:hover {
     background-color: aqua;
     font-size: 130%;
-    transition: 1s;
+    transition: .8s;
     border-radius: 1px 15px;
 }
 
@@ -16,7 +16,7 @@ nav li {
     margin-right: 10px;
     padding: 5px;
     margin: 5px 35px;
-    transition: 1.2s;
+    transition: .8s;
     border: 2px solid tomato;
     border-radius: 15px 1px;
 }
